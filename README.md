@@ -12,4 +12,4 @@
 # My Github Stats
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=shockingfargroundx)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockingfargroundx)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockingfargroundx&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
