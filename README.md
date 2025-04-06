@@ -7,7 +7,7 @@
   
 <div>
 <h3 align="center">Most Common Tools:</h3>
-  <a alt="OpenGL" href="https://www.learnopengl.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="40" height="40" <a  alt="Raylib" href="https://www.raylib.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/shockingfargroundx/shockingfargroundx/refs/heads/main/Raylib.svg"/></a>
+  <a alt="OpenGL" href="https://www.learnopengl.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="40" height="40"/> <a  alt="Raylib" href="https://www.raylib.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/shockingfargroundx/shockingfargroundx/refs/heads/main/Raylib.svg"/></a>
   
 <div align="center">
   
