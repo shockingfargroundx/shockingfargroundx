@@ -1,24 +1,42 @@
+<h3 align="Center"> 💫 About Me: </h3>
+<div align="Center"> Working on BonderEngine<br>Looking to make c++ friends<br>Help with CMake is appreciated </div>
 
-<div>
-<h3 align="center">Most Common Languages:</h3>
-  <div align="center"><a href="https://www.learncpp.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a alt="Kotlin" href="https://www.w3schools.com/kotlin/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="40" height="40" /></a> <a  alt="Raylib" href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" width="40" height="40"/>  </div>  
-<div align="center">
-  
-<div>
-<h3 align="center">Most Common Tools:</h3>
-  <a alt="OpenGL" href="https://www.learnopengl.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="40" height="40"/> <a  alt="Raylib" href="https://www.raylib.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/shockingfargroundx/shockingfargroundx/refs/heads/main/Raylib.svg"/> <a  alt="CLion" href="https://www.jetbrains.com/clion/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" width="40" height="40"/> <a alt="Unreal Engine 4" href="https://www.unrealengine.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40"/> <a alt="OpenGL" href="https://www.learnopengl.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="40" height="40"/> <a alt="CMake" href="https://cmake.org/getting-started" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="40" height="40"/> </a>
-  
-<div align="center">
-  
-# My Github Stats
+<h2 align="Center">🌐 Socials:</h2>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=shockingfargroundx)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shockingfargroundx&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="Center">[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@silvershark1)</div>
+
+
+<h2 align="Center">💻 Tech Stack:</h2>
+
+ 
+ <div align="Center">
+   
+   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+  ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+  ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+  ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shockingfargroundx&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shockingfargroundx&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shockingfargroundx&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shockingfargroundx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shockingfargroundx&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=shockingfargroundx&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
